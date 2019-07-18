@@ -7,5 +7,7 @@ public class Test01 {
 	  System.out.println("fgm01");
 	  System.out.println("fgm02");
 	  System.out.println("lxxx");
+	  System.out.println("lx1111111");
+	 
 }
 }
